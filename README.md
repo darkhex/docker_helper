@@ -11,7 +11,7 @@
 
 ###What's next?
 
-1. Setting network
+1. Set up network
 2. Forwarding ports for app
 3. Edit help
 4. Work with registry
